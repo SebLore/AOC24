@@ -1,7 +1,10 @@
 #include "Days.h"
 #include <algorithm>
 #include <map>
+#include <sstream>
 
+
+// Day 1
 void Day1::Solve()
 {
 	LoadDataFromFile();
@@ -113,6 +116,89 @@ void Day1::PrintResults() const
 }
 
 void Day1::LoadDataFromFile()
+{
+	Solution::LoadDataFromFile(m_input);
+}
+
+
+
+// Day 2 
+#define DAY2INRANGE (abs(delta) >= 1 && abs(delta) <= 3)
+// returns true if the delta is following the growth direction (if increasing is false (decreasing) and delta < 0, then true).
+#define DAY2FOLLOWINGTREND (increasing == (delta > 0))
+void Day2::Solve()
+{
+	LoadDataFromFile();
+	Test();
+	PrintResults();
+}
+
+void Day2::Test()
+{
+	std::vector<std::string> testdata = {
+		 "7 6 4 2 1",
+		 "1 2 7 8 9",
+		 "9 7 6 2 1",
+		 "1 3 2 4 5",
+		 "8 6 4 4 1",
+		 "1 3 6 7 9"
+	};
+
+	
+	// parse line each line as a report, each number entry as a level
+	for (const auto& report : testdata)
+	{
+		bool safe = true;
+		bool increasing = false;
+		int current = 0, last = 0;
+
+		std::istringstream iss(report);
+
+		// get the first two numbers
+		iss >> current;
+		last = current;
+		iss >> current;
+		auto delta = current - last;
+		last = current;
+		// the first two numbers set the character for the rest of the report
+		delta > 0 ? increasing = true : false;
+		// if the diff is already outside the range 1<= delta <= 3, this is report is unsafe
+		if (!DAY2INRANGE)
+			safe = false;
+
+
+		// loop until eof or report unsafe
+		while(iss >> current && safe == true)
+		{
+			delta = current - last;
+			// if the change is bigger than 3
+			if(!DAY2INRANGE || !DAY2FOLLOWINGTREND)
+				safe = false; 
+			last = current;
+		};
+
+		if(safe == false)
+			++m_test;
+	}
+	m_test = static_cast<int>(testdata.size() - m_test);
+}
+
+void Day2::Part1()
+{
+}
+
+void Day2::Part2()
+{
+}
+
+void Day2::PrintResults() const
+{
+	std::cout << "Test  : " << m_test << std::endl;
+	std::cout << "Part 1: " << m_result1 << std::endl;
+	std::cout << "Part 2: " << m_result2 << std::endl;
+}
+
+void Day2::LoadDataFromFile()
 {
 	Solution::LoadDataFromFile(m_input);
 }

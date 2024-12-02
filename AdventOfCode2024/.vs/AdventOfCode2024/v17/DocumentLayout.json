@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\",
+  "WorkspaceRootPath": "E:\\Code\\AOC24\\AdventOfCode2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\Days.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Days.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\Days.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Days.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\Day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Day1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|E:\\Code\\AOC24\\AdventOfCode2024\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{057B3921-C1E2-4E79-96F9-9D9EEC1E8603}|AdventOfCode2024.vcxproj|solutionrelative:Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Days.h",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.h",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\Days.h",
               "RelativeDocumentMoniker": "Days.h",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.h",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\Days.h",
               "RelativeToolTip": "Days.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-01T22:52:26.876Z",
               "IsPinned": true,
@@ -52,7 +52,23 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
@@ -60,69 +76,83 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Days.cpp",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.cpp",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\Days.cpp",
               "RelativeDocumentMoniker": "Days.cpp",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Days.cpp",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\Days.cpp",
               "RelativeToolTip": "Days.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAewLYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-01T23:02:21.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Day1.txt",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Day1.txt",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\Day1.txt",
               "RelativeDocumentMoniker": "Day1.txt",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Day1.txt",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\Day1.txt",
               "RelativeToolTip": "Day1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcDAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-01T23:02:03.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:02:03.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Utilities.h",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Utilities.h",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\Utilities.h",
               "RelativeDocumentMoniker": "Utilities.h",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Utilities.h",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\Utilities.h",
               "RelativeToolTip": "Utilities.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-01T22:51:11.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:51:11.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Solution.h",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Solution.h",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\Solution.h",
               "RelativeDocumentMoniker": "Solution.h",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\Solution.h",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\Solution.h",
               "RelativeToolTip": "Solution.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-01T20:19:59.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\main.cpp",
+              "DocumentMoniker": "E:\\Code\\AOC24\\AdventOfCode2024\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\46730\\source\\repos\\AOC24\\AdventOfCode2024\\main.cpp",
+              "ToolTip": "E:\\Code\\AOC24\\AdventOfCode2024\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-01T20:19:00.638Z",
               "EditorCaption": ""
